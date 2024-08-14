@@ -1,0 +1,55 @@
+.subit{
+    border: 3px solid rgb(132, 103, 159);
+}
+
+.caja1{
+    padding: 50px 30px 50px 80px;
+}
+
+.caja2{
+    margin: 20px;
+    text-align: center;
+}
+
+.display{
+    border: 2px solid rgb(135, 81, 81);
+    text-align: center;
+    width: 200px;
+    display: block;
+}
+
+.display1{
+    border: 2px solid rgb(135, 81, 81);
+    text-align: center;
+    width: 50px;
+    display: inline-block;
+}
+
+.display2{
+    border: 2px solid rgb(135, 81, 81);
+    text-align: center;
+    width: 200px;
+    display: inline;
+}
+
+.display3{
+    border: 2px solid rgb(135, 81, 81);
+    text-align: center;
+    width: 50px;
+    display: none;
+}
+
+.display4{
+    border: 2px solid rgb(135, 81, 81);
+    text-align: center;
+    width: 50px;
+    display: inline-block;
+}
+
+.hide{
+    border: 2px solid rgb(135, 81, 81);
+    text-align: center;
+    width: 50px;
+    display: inline-block;
+    visibility: hidden;
+}

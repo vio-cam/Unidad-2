@@ -1,0 +1,28 @@
+body {
+    background-color: rgb(173, 107, 104);
+    color: rgb(255, 255, 255);
+}
+
+.op{
+    font-family: "Unkempt", cursive;
+    
+}
+
+h1 {
+    color: rgb(255, 255, 255);
+    text-align: center;
+    border: 2px solid rgb(190, 149, 149);
+    background-color: rgb(190, 149, 149);
+    border-radius: 25px;
+
+}
+
+
+#result {
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-size: 40px;
+    border: 2px solid rgb(190, 149, 149);
+    background-color: rgb(190, 149, 149);
+    border-radius: 25px;
+}
